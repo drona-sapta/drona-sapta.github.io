@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Kundan2142/bhm/static/css/main.c48704a2.css",
-    "main.js": "/Kundan2142/bhm/static/js/main.29d397af.js",
-    "static/js/453.ed3810f9.chunk.js": "/Kundan2142/bhm/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/Kundan2142/bhm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Kundan2142/bhm/index.html",
-    "main.c48704a2.css.map": "/Kundan2142/bhm/static/css/main.c48704a2.css.map",
-    "main.29d397af.js.map": "/Kundan2142/bhm/static/js/main.29d397af.js.map",
-    "453.ed3810f9.chunk.js.map": "/Kundan2142/bhm/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/bhm/static/css/main.c48704a2.css",
+    "main.js": "/bhm/static/js/main.e9edc572.js",
+    "static/js/453.ed3810f9.chunk.js": "/bhm/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "/bhm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bhm/index.html",
+    "main.c48704a2.css.map": "/bhm/static/css/main.c48704a2.css.map",
+    "main.e9edc572.js.map": "/bhm/static/js/main.e9edc572.js.map",
+    "453.ed3810f9.chunk.js.map": "/bhm/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c48704a2.css",
-    "static/js/main.29d397af.js"
+    "static/js/main.e9edc572.js"
   ]
 }
