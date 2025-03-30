@@ -1,5 +1,5 @@
 const categories = {
-  "Science": [
+  "Architecture": [
     {
       question: "What is the chemical symbol for Gold?",
       image: "/images/logo192.png",
@@ -15,10 +15,10 @@ const categories = {
       details: "Mitochondria are known as the powerhouse of the cell because they generate ATP."
     }
   ],
-  "Geography": [
+  "Food": [
     {
-      question: "Which is the largest continent?",
-      image: "https://upload.wikimedia.org/wikipedia/commons/3/35/World_map_blank_without_borders.svg",
+      question: "What do you call this food?",
+      image: "/images/pakhala.webp",
       options: ["Asia", "Africa", "Europe", "North America"],
       answer: "Asia",
       details: "Asia is the largest continent by both area and population."
@@ -31,7 +31,7 @@ const categories = {
       details: "Canada has the most natural lakes, with over 2 million lakes."
     }
   ],
-  "History": [
+  "Clothing": [
     {
       question: "Who was the first President of the USA?",
       image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/George_Washington.jpg",
@@ -47,7 +47,7 @@ const categories = {
       details: "World War II ended in 1945 with the surrender of Germany and Japan."
     }
   ],
-  "Technology": [
+  "Arts": [
     {
       question: "Who is known as the father of computers?",
       image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Charles_Babbage.jpg",
@@ -68,7 +68,7 @@ const categories = {
       details: "HTTP stands for Hyper Text Transfer Protocol, used for web communication."
     }
   ],
-  "Sports": [
+  "Festivals": [
     {
       question: "Which country won the FIFA World Cup in 2018?",
       image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/FIFA_World_Cup_Trophy.jpg",
