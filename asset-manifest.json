@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/drona-sapta.github.io/static/css/main.c48704a2.css",
-    "main.js": "/drona-sapta.github.io/static/js/main.bc0412c6.js",
-    "static/js/453.ed3810f9.chunk.js": "/drona-sapta.github.io/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/drona-sapta.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/drona-sapta.github.io/index.html",
-    "main.c48704a2.css.map": "/drona-sapta.github.io/static/css/main.c48704a2.css.map",
-    "main.bc0412c6.js.map": "/drona-sapta.github.io/static/js/main.bc0412c6.js.map",
-    "453.ed3810f9.chunk.js.map": "/drona-sapta.github.io/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/drona-sapta-quiz/static/css/main.c48704a2.css",
+    "main.js": "/drona-sapta-quiz/static/js/main.08ae473a.js",
+    "static/js/453.ed3810f9.chunk.js": "/drona-sapta-quiz/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "/drona-sapta-quiz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/drona-sapta-quiz/index.html",
+    "main.c48704a2.css.map": "/drona-sapta-quiz/static/css/main.c48704a2.css.map",
+    "main.08ae473a.js.map": "/drona-sapta-quiz/static/js/main.08ae473a.js.map",
+    "453.ed3810f9.chunk.js.map": "/drona-sapta-quiz/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c48704a2.css",
-    "static/js/main.bc0412c6.js"
+    "static/js/main.08ae473a.js"
   ]
 }
