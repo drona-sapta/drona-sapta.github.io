@@ -107,12 +107,12 @@ h2 {
   color: white;
 }
 
-.question-image {
+/* .question-image {
   width: 100%;
   max-height: 200px;
   border-radius: 10px;
   margin-top: 15px;
-}
+} */
 
 .question-container {
   display: flex;
@@ -130,9 +130,12 @@ h2 {
 }
 
 .question-image {
-  width: 100%;
-  max-height: 180px;
-  border-radius: 10px;
+  width: 500px;
+  height: 300px;
+  margin-left: 50px;
+  object-fit: cover;
+  /* max-height: 180px; */
+  border-radius: 6px;
   margin-bottom: 15px;
   object-fit: cover;
 }

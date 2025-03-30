@@ -43,7 +43,7 @@ const QuizeApp = () => {
   return (
     <div className="quiz-container">
       <header className="app-header">
-        <h1>Sapta-Drona BHM Night</h1>
+        <h1>Knots of <strong>क</strong>ulture</h1>
       </header>
       {!selectedCategory ? (
         <>
