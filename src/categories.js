@@ -29,6 +29,13 @@ const categories = {
       options: ["Kerala", "Tamil Nadu", "Odisha", "Andhra Pradesh"],
       answer: "Kerala",
       details: "The food is called Unniyappam, a traditional Kerala sweet dish made from rice, jaggery, and coconut. A similar food also exists in Tamil Nadu, Telengana, Andhra Pradesh, and Odisha with different names."
+    },
+    {
+      question: "Is this Litti or Baati?",
+      image: "/images/baati.jpg",
+      options: ["Litti", "Masala Baati", "Gulugula", "None"],
+      answer: "Masala Baati",
+      details: "Even though Litti and Baati looks similar, they are very different. Masala Baati is a spicy, stuffed variant of the traditional Rajasthani baati, filled with a flavorful mix of mashed potatoes, spices, and herbs, usually served with dal and churma."
     }
   ],
   // "Clothing": [
